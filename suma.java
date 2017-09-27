@@ -1,5 +1,5 @@
-int numero1= 2;
-int numero2= 3;
+int numero= 2;
+int numerodiferent= 3;
 
 System.out.println("introduce el primer número:");
 numero1 = reader.nextint(1);
