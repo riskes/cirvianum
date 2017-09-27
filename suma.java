@@ -1,5 +1,5 @@
 
-int ee323223nt= 0;
+int 321321231213231ee323223nt= 0;
 
-System.out.println("idaskjdasidjasidjasxo:");
+System.out.println("idaskjda132231312123321312132132sidjasidjasxo:");
 numero2 = reader.nextint(2);
