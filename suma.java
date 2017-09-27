@@ -1,8 +1,5 @@
-int numero= 2;
-int numerodiferent= 3;
 
-System.out.println("iúmerdasdasadso:");
-numero1 = reader.nextint(1);
+int ee323223nt= 0;
 
-System.out.println("iasfafsdsaero:");
+System.out.println("idaskjdasidjasidjasxo:");
 numero2 = reader.nextint(2);
