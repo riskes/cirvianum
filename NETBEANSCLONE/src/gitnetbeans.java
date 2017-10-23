@@ -9,5 +9,5 @@
  * @author W8
  */
 public class gitnetbeans {
-    
+    String hola ="hola";
 }
